@@ -1,0 +1,11 @@
+D:\Users\FEYZA\Visual Studio Projects\Horoscope\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+D:\Users\FEYZA\Visual Studio Projects\Horoscope\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\Users\FEYZA\Visual Studio Projects\Horoscope\Core\bin\Debug\Core.dll
+D:\Users\FEYZA\Visual Studio Projects\Horoscope\Core\bin\Debug\Core.pdb
+D:\Users\FEYZA\Visual Studio Projects\Horoscope\Core\bin\Debug\Newtonsoft.Json.dll
+D:\Users\FEYZA\Visual Studio Projects\Horoscope\Core\bin\Debug\RestSharp.dll
+D:\Users\FEYZA\Visual Studio Projects\Horoscope\Core\bin\Debug\Newtonsoft.Json.xml
+D:\Users\FEYZA\Visual Studio Projects\Horoscope\Core\bin\Debug\RestSharp.xml
+D:\Users\FEYZA\Visual Studio Projects\Horoscope\Core\obj\Debug\Core.csproj.CopyComplete
+D:\Users\FEYZA\Visual Studio Projects\Horoscope\Core\obj\Debug\Core.dll
+D:\Users\FEYZA\Visual Studio Projects\Horoscope\Core\obj\Debug\Core.pdb

@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WindowsFormUI", "WindowsFormUI", "{78F81DCB-2087-4796-A388-95A788F1C44E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TSQL", "TSQL", "{06CB6985-366B-48BB-9D29-BD1B87292452}"
+	ProjectSection(SolutionItems) = preProject
+		TSQLCodes.sql = TSQLCodes.sql
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{71BA6C93-3748-4ABB-8667-66EFAF1AEA41}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{927A55A7-C791-4DA7-B790-CF60219194A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{4F0AAE95-DDF7-4788-94D8-ACE0340C97F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71BA6C93-3748-4ABB-8667-66EFAF1AEA41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71BA6C93-3748-4ABB-8667-66EFAF1AEA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71BA6C93-3748-4ABB-8667-66EFAF1AEA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71BA6C93-3748-4ABB-8667-66EFAF1AEA41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F0AAE95-DDF7-4788-94D8-ACE0340C97F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F0AAE95-DDF7-4788-94D8-ACE0340C97F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F0AAE95-DDF7-4788-94D8-ACE0340C97F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F0AAE95-DDF7-4788-94D8-ACE0340C97F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{71BA6C93-3748-4ABB-8667-66EFAF1AEA41} = {78F81DCB-2087-4796-A388-95A788F1C44E}
+		{4F0AAE95-DDF7-4788-94D8-ACE0340C97F0} = {927A55A7-C791-4DA7-B790-CF60219194A5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C12DA6C9-8944-49F9-A2DF-4106FD0DF2AB}
+	EndGlobalSection
+EndGlobal
